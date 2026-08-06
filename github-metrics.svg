@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allangood/rtlamr2mqtt</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker container to send rtlamr readings to a mqtt broker</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iMike78/nest-mini-drop-in-pcb</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drop-in PCB replacement for the Google Nest Mini v2 with XMOS integration. Inspired by Onju Voice and Home Assistant Voice PE hardware.</div>
@@ -368,7 +368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charludo/hass-closest-intent</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fuzzy intent matcher for HomeAssistant. Garbled STT output in, actual intent out.</div>
@@ -421,7 +421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luisfrancisco/colorsym</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source symbol font that makes colors instantly identifiable by shape. Designed for color-blind accessibility</div>
@@ -490,7 +490,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Aug 2026, 22:02:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2026, 22:06:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
